@@ -1,2 +1,2 @@
 x = "bradley"
-puts x * 9
+puts (x + " ") * 9
