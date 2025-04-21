@@ -1,3 +1,2 @@
 x = "bradley"
-puts x * 5
-
+puts x * 9
